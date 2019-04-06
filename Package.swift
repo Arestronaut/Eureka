@@ -2,7 +2,7 @@
 	import PackageDescription
 	
 	let package = Package(
-	    name: "FSCalendar",
+	    name: "Eureka",
 	    // platforms: [.iOS("9.0")],
 	    products: [
 	        .library(name: "Eureka", targets: ["Eureka"])
