@@ -10,7 +10,7 @@
 	    targets: [
 	        .target(
 	            name: "Eureka",
-	            path: "Eureka"
+	            path: "Source"
 	        )
 	    ]
 	)
